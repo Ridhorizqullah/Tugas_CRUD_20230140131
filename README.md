@@ -48,7 +48,6 @@ Aplikasi ini menyediakan REST API di endpoint root `/api/ktp`:
 ---
 **Catatan:** Proyek ini dikerjakan untuk memenuhi evaluasi Tugas CRUD KTP.
 
-![alt text](docs/Screenshot%202026-03-10%20105148.png) 
 ![alt text](docs/Screenshot%202026-03-10%20105029.png) 
 ![alt text](docs/Screenshot%202026-03-10%20105115.png) 
 ![alt text](docs/Screenshot%202026-03-10%20105121.png) 
